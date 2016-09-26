@@ -9,7 +9,7 @@ import java.util.*;
 public class Test {
 
 /**
- * ngram algorithm: split string to word and remove regex 
+ * ngram algorithm split string to word and remove regex 
  * @param n 	number for split string
  * @param str 	String input 
  * @return list word
